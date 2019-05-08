@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace adapter_design_pattern
 {
-    class Rectangle 
+    class Rectangle:Shape
     {
-  
+        public void draw()
+        {
+            Console.WriteLine("Drawing Rectangle");
+        }
     }
 }

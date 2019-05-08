@@ -4,3 +4,10 @@ D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\bin\Deb
 D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.csprojResolveAssemblyReference.cache
 D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.exe
 D:\Dropbox\Dropbox\Project\adapter_design_pattern\adapter_design_pattern\obj\Debug\adapter_design_pattern.pdb
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.csprojAssemblyReference.cache
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.exe
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\obj\Debug\adapter_design_pattern.pdb
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe.config
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.exe
+C:\Users\Ozgur Can\Desktop\nesne\Lab10\Lab10\adapter_design_pattern\bin\Debug\adapter_design_pattern.pdb

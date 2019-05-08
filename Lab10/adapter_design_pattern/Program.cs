@@ -17,8 +17,8 @@ namespace adapter_design_pattern
             drawing.addShape(new Circle());
             drawing.addShape(new GeometricShapeObjectAdapter(new Triangle(2,4,5)));
             drawing.draw();
-           
-          
+
+            Console.ReadKey();
         }
     }
 }

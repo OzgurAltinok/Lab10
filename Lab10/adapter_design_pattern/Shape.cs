@@ -8,6 +8,6 @@ namespace adapter_design_pattern
 {
     interface Shape
     {
-            void draw();  
+        void draw();
     }
 }

@@ -23,14 +23,13 @@ namespace adapter_design_pattern
         }
         public void draw()
         {
-            /* shapes 'null değilse veya içerisinde 0 dan fazla eleman varsa tüm shapleri çizdir:
-             * foreach(Shape x in shapes)
-                {
+            //shapes 'null değilse veya içerisinde 0 dan fazla eleman varsa tüm shapleri çizdir:
+            foreach (Shape x in shapes)
+            {
+                if (shapes != null && shapes.Count > 0)
                     x.draw();
-                }
-             */
-            
+            }
         }
-      
+
     }
 }

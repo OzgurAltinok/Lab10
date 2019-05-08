@@ -9,6 +9,6 @@ namespace adapter_design_pattern
     interface GeometricShape
     {
         double area();
-        void drawShape();
+        string drawShape();
     }
 }
